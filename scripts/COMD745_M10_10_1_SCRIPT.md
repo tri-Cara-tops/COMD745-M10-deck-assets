@@ -16,7 +16,7 @@ Your reading this week is Chapter eleven of Denes and Pinson, Automatic Speech R
 
 ## Slide 4
 
-Here is what a painted pattern looks like next to a real spectrogram. [pause] On one side you have natural speech, dense and messy. On the other side, a few painted bars. Almost everything has been thrown away. [pause] And listeners still heard a syllable. That is the whole method. Strip the signal down, play it, and if people still hear the sound, then what you left in is sufficient to identify it. Everything you removed was not necessary. That is how the field figured out which acoustic features actually carry consonant identity, decades before anyone could measure it automatically.
+Here is what a painted pattern looks like next to a real spectrogram. [pause] On one side you have natural speech, dense and messy. On the other side, a few painted bars. Almost everything has been thrown away. [pause] And listeners still heard a syllable. The method is subtractive. Strip the signal down, play it, and if people still hear the sound, then what you left in is sufficient. Everything you removed was not necessary. That is how the field figured out which acoustic features actually carry consonant identity, decades before anyone could measure it automatically.
 
 ## Slide 5
 
@@ -28,4 +28,4 @@ This is the figure I want you to hold onto. [pause] Six painted patterns. Played
 
 ## Slide 7
 
-One last thing before the next lecture. [pause] Denes and Pinson also show what happens when the signal is not enough on its own. Listeners resolve ambiguous sounds using the words around them. You already know this. You measured it on yourself in the Module nine lab, when your accuracy moved depending on how many answer choices were printed in front of you. [pause] Hold onto that. The recognizer you are about to meet does not have it.
+One last thing before the next lecture. [pause] Denes and Pinson also show what happens when the signal is not enough on its own. Listeners resolve ambiguous sounds using the words around them. You already know this. You measured it on yourself in the Module nine lab, when your accuracy moved depending on how many answer choices were printed in front of you. [pause] The recognizer you are about to meet does not have that.

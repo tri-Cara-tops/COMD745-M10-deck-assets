@@ -24,11 +24,11 @@ Before we go further, I want to show you something. [pause] Denes and Pinson ran
 
 ## Slide 6
 
-Here is the original table. [pause] The column on the right is percent of words correctly identified. [pause] What I want you to take from it is this. A listener choosing between two words is not doing the same task as a listener choosing among two hundred fifty six. Both get called intelligibility testing. Both produce a percentage. Those percentages are not comparable to each other, and if you put one of them in a chart without saying which task produced it, nobody downstream can use it.
+Here is the original table. [pause] The column on the right is percent of words correctly identified. [pause] A listener choosing between two words is not doing the same task as a listener choosing among two hundred fifty six. Both get called intelligibility testing. Both produce a percentage. Those percentages are not comparable to each other, and if you put one of them in a chart without saying which task produced it, nobody downstream can use it.
 
 ## Slide 7
 
-Back to the comparison. [pause] The software identified four of the nine single words. On the first sentence it scored fifty percent, and the class average was forty nine point three. Essentially a tie. On the second sentence the software scored sixty six point seven and the class averaged forty point seven. [pause] So it wins some and loses some. There is no clean story where the machine is better or the human is better. That is the finding.
+Back to the comparison. [pause] The software identified four of the nine single words. On the first sentence it scored fifty percent, and the class average was forty nine point three. Essentially a tie. On the second sentence the software scored sixty six point seven and the class averaged forty point seven. [pause] So it wins some and loses some. There is no condition where one of them is reliably better than the other.
 
 ## Slide 8
 

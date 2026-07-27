@@ -20,11 +20,11 @@ So what does an intelligibility score actually describe. [pause] Not a person. I
 
 ## Slide 5
 
-Same problem from another angle. [pause] Back in Module eight you all did the diadochokinetic task. Same instructions, same tool, same five seconds. And the rates across this class covered a wide range. Every one of you has an intact speech system. [pause] A norm describes a sample of people. A baseline describes your patient. [pause] When a patient cannot be meaningfully compared to a norm, and many cannot, you compare them to themselves over time. That is not a compromise. It is often the better measure.
+Same problem from another angle. [pause] Back in Module eight you all did the diadochokinetic task. Same instructions, same tool, same five seconds. And the rates across this class covered a wide range. Every one of you has an intact speech system. [pause] A norm describes a sample of people. A baseline describes your patient. [pause] When a patient cannot be meaningfully compared to a norm, and many cannot, you compare them to themselves over time. That is often the better measure anyway.
 
 ## Slide 6
 
-Now something I want to name directly, because it has been sitting underneath this entire course. [pause] You spent a semester transcribing sounds, and every worksheet asked you to write those sounds down as letters. [pause] Letters are not sounds. English has twenty six letters and roughly forty four sounds, and our spelling hides that gap constantly. [pause] So when you cannot identify a sound, the pull is to write down the nearest word instead. That is exactly what the software does too. It reaches for the closest real word. [pause] That pull, toward text, toward a word you already know, is what every task in this course was designed to interrupt.
+Now something about the course itself. [pause] You spent a semester transcribing sounds, and every worksheet asked you to write those sounds down as letters. [pause] Letters are not sounds. English has twenty six letters and roughly forty four sounds, and our spelling hides that gap constantly. [pause] So when you cannot identify a sound, the pull is to write down the nearest word instead. That is exactly what the software does too. It reaches for the closest real word. [pause] Every task in this course was built to interrupt that.
 
 ## Slide 7
 
@@ -32,7 +32,7 @@ Here is what I mean, with real numbers. [pause] These are the six stop consonant
 
 ## Slide 8
 
-Why do those two disagree so badly? [pause] Take k first. The sound is everywhere. Cat. Come. Cut. Back. School. But look at how we spell it. Almost always with a c. So the sound is common and the letter is rare, because English hands that job to a different letter. [pause] Now g. The letter is everywhere, but a lot of the time it is not making that sound at all. Sign. Though. Gnome. Ginger. Rough. Silent, or something else entirely. [pause] So if you rank these six by how often you see them on a page, you get the wrong answer about what people are actually saying. [pause] That is the gap this whole course has been working in. You have spent your entire life reading, and your instinct about what English sounds like is partly an instinct about what English looks like. Those are not the same thing, and your patients live in the first one.
+Why do those two disagree so badly? [pause] Take k first. The sound is everywhere. Cat. Come. Cut. Back. School. But look at how we spell it. Almost always with a c. So the sound is common and the letter is rare, because English hands that job to a different letter. [pause] Now g. The letter is everywhere, but a lot of the time it is not making that sound at all. Sign. Though. Gnome. Ginger. Rough. Silent, or something else entirely. [pause] So if you rank these six by how often you see them on a page, you get the wrong answer about what people are actually saying.
 
 ## Slide 9
 
