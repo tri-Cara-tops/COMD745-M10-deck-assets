@@ -308,7 +308,36 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - When you cannot identify a sound, the pull is to write the nearest word instead. So does the software.
 - That pull is what every task in this course was designed to interrupt.
 
-## Slide 7 — How to Get the Text Out of the Way
+## Slide 7 — The Same Six Sounds, Ranked Two Ways
+
+**Full-width table.** Header row garnet fill, sandstorm text.
+Shade these data rows at 20 percent horseshoe (zero-indexed): [2, 5]
+
+| Stop | Rank as a SOUND in speech | Percent of speech | Rank as a LETTER in writing |
+|---|---|---|---|
+| /t/ | 1 | 5.78 | 1 |
+| /d/ | 2 | 3.33 | 2 |
+| /k/ | 3 | 3.10 | 6 |
+| /b/ | 4 | 1.90 | 5 |
+| /p/ | 5 | 1.79 | 4 |
+| /g/ | 6 | 1.18 | 3 |
+
+Caption beneath in atlantic italic: *Speech percentages from Mines, Hanson and Shoup (1978), Language and Speech 21(3), 103,887 phonemes of conversational American English. Letter ranks from standard English letter-frequency counts.*
+
+## Slide 8 — Why the Two Rankings Disagree
+
+**Figure:** `DP1_Fig8-12_importance_of_context.png`  **FULL WIDTH**
+**Caption:** Denes & Pinson, Figure 8-12. Letters removed from a sentence, with the number of guesses each one took.
+**Ties back to:** Module 1, information theory
+
+**Bullets, exact text:**
+
+- /k/ is the third most common stop in speech and the rarest of the six as a letter.
+- That is because English usually spells the sound with c: cat, come, back, school.
+- The letter g runs the other way. Third most common letter, least common sound, because of sign, though, gnome, ginger.
+- If you rank these sounds by how they look on a page, you get the wrong answer about speech.
+
+## Slide 9 — How to Get the Text Out of the Way
 
 **Figure:** `ExtIPA_chart_2025_full.png`  **FULL WIDTH**
 **Caption:** The extended IPA. Notation for productions that no ordinary spelling covers.
@@ -321,7 +350,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - The extended IPA gives you symbols for sounds that are not any word at all.
 - None of these is more real than conversation. Each one hides a different crutch from you on purpose.
 
-## Slide 8 — Sound Behaves Differently From Print
+## Slide 10 — Sound Behaves Differently From Print
 
 **Figure:** `DP_Fig1-1_speech_chain_ROTATED.png`  **FULL WIDTH**
 **Caption:** The speech chain. Everything in the middle is sound, and none of it holds still.
@@ -334,7 +363,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - You can rap on a box and hear whether it is empty. Sound tells you about the inside of things.
 - That is why a voice tells you so much about a person, and why we can measure a vocal tract without opening one.
 
-## Slide 9 — The Feedback Link
+## Slide 11 — The Feedback Link
 
 **Figure:** `DP_Fig1-1_feedback_link_CROP.png`  **FULL WIDTH**
 **Caption:** The feedback link. Denes & Pinson, Figure 1-1.
@@ -345,7 +374,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - Monitoring runs below awareness. Awareness is a separate event.
 - A patient who can hear the mismatch has a reason to work on it, which is where a target comes from.
 
-## Slide 10 — Getting a Clean Measure: The Probe
+## Slide 12 — Getting a Clean Measure: The Probe
 
 **Figure:** `lab task scrn sht pg1 1-2.png`  **FULL WIDTH**
 **Caption:** The lab worksheet works the same way: fixed targets, no cues, scored the same each time.
@@ -358,7 +387,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - It tells you what the patient does without you, which is the only thing that predicts carryover.
 - Match the probe to the task that established baseline so the two are comparable over time.
 
-## Slide 11 — Why Probe Data Beats Cued Data
+## Slide 13 — Why Probe Data Beats Cued Data
 
 **Figure:** `CHART_student_accuracy_by_format.png`  **FULL WIDTH**
 **Caption:** The same principle you measured on yourself: remove the support and the score changes.
@@ -371,7 +400,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - Probes are quick, which spares you documenting a session while also running it.
 - Your patient does not take you home, to the book club, or to work. Measure what travels.
 
-## Slide 12 — Repair: Sharing Context
+## Slide 14 — Repair: Sharing Context
 
 **Figure:** `DP_Fig1-1_speech_chain_ROTATED.png`  **FULL WIDTH**
 **Caption:** Shared context supports the linguistic link on both ends of the chain.
@@ -384,7 +413,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - Speech and content on the speaker side get richer, and the listener can track what is being referred to.
 - Most useful when the breakdown is at the language level, as in aphasia.
 
-## Slide 13 — Repair: Targeted Repair and Topic Marking
+## Slide 15 — Repair: Targeted Repair and Topic Marking
 
 **Figure:** `Ryalls_Fig10-1_PDP_interactive_activation.png`  **FULL WIDTH**
 **Caption:** Repair works on the same signal and knowledge system perception runs on.
@@ -397,7 +426,7 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 - Offer repair carefully. A wrong guess creates a second breakdown on top of the first.
 - Speech is redundant. Language is not. People who stutter report that what they were about to say rarely matches what a listener supplies.
 
-## Slide 14 — The Evidence That Is Not in a Paper
+## Slide 16 — The Evidence That Is Not in a Paper
 
 **Figure:** `DP_Fig1-1_feedback_link_CROP.png`  **FULL WIDTH**
 **Caption:** The feedback link. Denes & Pinson, Figure 1-1.
