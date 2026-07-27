@@ -1,6 +1,6 @@
 # Lecture 10.1 — Acoustic Cues to Consonant Identity
 
-Recording script. Read the text under each slide heading while that slide is on screen.
+Recording script.
 
 ## Slide 1
 

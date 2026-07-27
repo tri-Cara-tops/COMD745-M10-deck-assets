@@ -1,6 +1,6 @@
 # Lecture 10.2 — Automatic Speech Recognition
 
-Recording script. Read the text under each slide heading while that slide is on screen.
+Recording script.
 
 ## Slide 1
 
