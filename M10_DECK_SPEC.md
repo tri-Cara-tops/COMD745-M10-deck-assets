@@ -311,18 +311,18 @@ Caption beneath in atlantic italic: *Her intelligibility rows are completed by s
 ## Slide 7 — The Same Six Sounds, Ranked Two Ways
 
 **Full-width table.** Header row garnet fill, sandstorm text.
-Shade these data rows at 20 percent horseshoe (zero-indexed): [2, 5]
+Shade these data rows at 20 percent horseshoe (zero-indexed): [2]
 
-| Stop | Rank as a SOUND in speech | Percent of speech | Rank as a LETTER in writing |
-|---|---|---|---|
-| /t/ | 1 | 5.78 | 1 |
-| /d/ | 2 | 3.33 | 2 |
-| /k/ | 3 | 3.10 | 6 |
-| /b/ | 4 | 1.90 | 5 |
-| /p/ | 5 | 1.79 | 4 |
-| /g/ | 6 | 1.18 | 3 |
+| Stop | Percent of speech | Rank as a sound | Percent of letters in print | Rank as a letter |
+|---|---|---|---|---|
+| /t/ | 5.78 | 1 | 9.28 | 1 |
+| /d/ | 3.33 | 2 | 3.82 | 2 |
+| /k/ | 3.10 | 3 | 0.54 | 6 |
+| /b/ | 1.90 | 4 | 1.48 | 5 |
+| /p/ | 1.79 | 5 | 2.14 | 3 |
+| /g/ | 1.18 | 6 | 1.87 | 4 |
 
-Caption beneath in atlantic italic: *Speech percentages from Mines, Hanson and Shoup (1978), Language and Speech 21(3), 103,887 phonemes of conversational American English. Letter ranks from standard English letter-frequency counts.*
+Caption beneath in atlantic italic: *Speech: Mines, Hanson and Shoup (1978), Language and Speech 21(3), Table 3, 103,887 phonemes of conversational American English. Print: Norvig (2013), Google Books Ngrams English, 3.56 trillion letters.*
 
 ## Slide 8 — Why the Two Rankings Disagree
 
@@ -332,23 +332,23 @@ Caption beneath in atlantic italic: *Speech percentages from Mines, Hanson and S
 
 **Bullets, exact text:**
 
-- /k/ is the third most common stop in speech and the rarest of the six as a letter.
-- That is because English usually spells the sound with c: cat, come, back, school.
-- The letter g runs the other way. Third most common letter, least common sound, because of sign, though, gnome, ginger.
-- If you rank these sounds by how they look on a page, you get the wrong answer about speech.
+- The letter k is the rarest of the six in print at 0.54 percent, and the sound is third most common in speech at 3.10 percent.
+- English usually spells that sound with c: cat, come, back, school.
+- The letter t is inflated in print partly by the digraph th, the most frequent two-letter sequence in English.
+- Rank these six by how often you see them on a page and you get the wrong answer about speech.
 
 ## Slide 9 — Which Feature Survives a Bad Signal
 
 **Figure:** `Ryalls_Fig1-2_consonant_articulatory_features.png`  **FULL WIDTH**
-**Caption:** Consonants by place, manner, and voicing. Miller & Nicely (1955), JASA 27(2), 338-352.
+**Caption:** Miller & Nicely (1955), JASA 27(2), 338-352, Table XVIII, 2,000 observations.
 **Ties back to:** Module 9, distinctive features
 
 **Bullets, exact text:**
 
-- Miller and Nicely put consonants in noise and measured which features listeners still recovered.
-- Voicing and nasality held up at signal-to-noise ratios as poor as negative 12 decibels.
-- Place of articulation fell apart below positive 6 decibels, a difference of about 18 decibels.
-- So in a degraded signal you keep knowing whether it was voiced. You lose where it was made.
+- Miller and Nicely presented the six stops in noise and recorded 2,000 listener responses.
+- Of the 1,118 errors, 991 kept the voicing correct and moved the place of articulation.
+- Only 127 crossed the voicing boundary. Place errors outnumbered voicing errors about eight to one.
+- Voicing stayed discriminable down to negative 12 decibels. Place fell apart below positive 6.
 
 ## Slide 10 — Your Class Reproduced That Result
 

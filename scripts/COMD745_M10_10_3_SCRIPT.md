@@ -32,11 +32,11 @@ Here is what I mean, with real numbers. [pause] These are the six stop consonant
 
 ## Slide 8
 
-Why do those two disagree so badly? [pause] Take k first. The sound is everywhere. Cat. Come. Cut. Back. School. But look at how we spell it. Almost always with a c. So the sound is common and the letter is rare, because English hands that job to a different letter. [pause] Now g. The letter is everywhere, but a lot of the time it is not making that sound at all. Sign. Though. Gnome. Ginger. Rough. Silent, or something else entirely. [pause] So if you rank these six by how often you see them on a page, you get the wrong answer about what people are actually saying.
+Why do those two disagree? [pause] Take k. In print it is the rarest of the six, about half a percent of all letters. In speech the sound is third most common of the six, over three percent. [pause] That is because English usually spells that sound with a c. Cat. Come. Back. School. The sound is everywhere and the letter is not, because a different letter is doing the work. [pause] The letter t runs high in print partly because of th, which is the single most frequent two-letter sequence in English, and most of those are not a t sound at all. [pause] So if you rank these six by how often you see them on a page, you get the wrong answer about what people are saying.
 
 ## Slide 9
 
-There is one more piece to this, and it is the oldest finding in the module. [pause] Miller and Nicely, nineteen fifty five. They put consonants in noise and measured which features listeners could still recover. [pause] Voicing and nasality held up all the way down to a signal-to-noise ratio of negative twelve decibels. Place of articulation fell apart below positive six. That is a gap of about eighteen decibels. [pause] Put plainly: when a signal degrades, you keep knowing whether a sound was voiced. You lose where in the mouth it was made. Voiced and voiceless stay separate. But p, t, and k start collapsing into each other, and so do b, d, and g.
+There is one more piece, and it is the oldest finding in the module. [pause] Miller and Nicely, nineteen fifty five. They presented the six stop consonants in noise and collected two thousand listener responses. [pause] Eleven hundred eighteen of those were errors. Of those errors, nine hundred ninety one kept the voicing correct and moved the place of articulation. Only one hundred twenty seven crossed the voicing line. [pause] That is about eight to one. When the signal degrades, listeners hold onto voicing and lose place. [pause] Voicing stayed discriminable down to a signal-to-noise ratio of negative twelve decibels. Place fell apart below positive six.
 
 ## Slide 10
 
